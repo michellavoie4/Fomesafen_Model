@@ -1,4 +1,4 @@
-# Procedure to run the model predicting cellular fomesafen uptake over time in a phytoplanktonic cell, which is Raphidocelis subcapitata in this case. We consider four different initial dissolved total fomesafen concentrations.
+# Procedure to run the model (v1.0.0) predicting cellular fomesafen uptake over time in a phytoplanktonic cell, which is Raphidocelis subcapitata in this case. We consider four different initial dissolved total fomesafen concentrations.
 
 1) Download and install the latest versions of R at https://cran.rstudio.com/
 
